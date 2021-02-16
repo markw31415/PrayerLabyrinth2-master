@@ -1,0 +1,1048 @@
+fileFormatVersion: 2
+guid: 6f1b1fec40126c544bc89605818a4b9e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bench
+    100002: bench1
+    100004: bench2
+    100006: bench20
+    100008: bench21
+    100010: bench24
+    100012: bench25
+    100014: bench26
+    100016: bench27
+    100018: bench28
+    100020: bench29
+    100022: bench3
+    100024: bench30
+    100026: bench31
+    100028: bench32
+    100030: bench33
+    100032: bench34
+    100034: bench35
+    100036: bench36
+    100038: bench37
+    100040: bench38
+    100042: bench39
+    100044: bookPult
+    100046: bookPult1
+    100048: books
+    100050: books1
+    100052: BOOKS2
+    100054: books3
+    100056: books4
+    100058: cabinet
+    100060: cabinet1
+    100062: cabinetFDoubleSmall
+    100064: cabinetSmall
+    100066: cabinetSmall1
+    100068: cabinetSmall2
+    100070: cabinetSmall3
+    100072: cabinetSmall4
+    100074: cabinmetBigBooks
+    100076: Camera_Interest
+    100078: chair
+    100080: chair1
+    100082: chair2
+    100084: chandelier
+    100086: chandelier1
+    100088: chandelier3
+    100090: chandelier4
+    100092: chandelier5
+    100094: chandelierSmall
+    100096: CHURCH
+    100098: CHURCH_MeshPart0
+    100100: CHURCH_MeshPart1
+    100102: //RootNode
+    100104: doorLeft
+    100106: doorRight
+    100108: fence
+    100110: furniture01_Layer1
+    100112: furniture02_Layer1
+    100114: furniture03_Layer1
+    100116: Incensary03LOD
+    100118: Incensary03LOD1
+    100120: KrstL3
+    100122: light
+    100124: paper
+    100126: paper1
+    100128: paper2
+    100130: piano
+    100132: podium
+    100134: bench 1
+    100136: bench1 1
+    100138: bench2 1
+    100140: bench20 1
+    100142: bench21 1
+    100144: bench24 1
+    100146: bench25 1
+    100148: bench26 1
+    100150: bench27 1
+    100152: bench28 1
+    100154: bench29 1
+    100156: bench3 1
+    100158: bench30 1
+    100160: bench31 1
+    100162: bench32 1
+    100164: bench33 1
+    100166: bench34 1
+    100168: bench35 1
+    100170: bench36 1
+    100172: bench37 1
+    100174: bench38 1
+    100176: bench39 1
+    100178: bookPult 1
+    100180: bookPult1 1
+    100182: books 1
+    100184: books1 1
+    100186: BOOKS2 1
+    100188: books3 1
+    100190: books4 1
+    100192: cabinet 1
+    100194: cabinet1 1
+    100196: cabinetFDoubleSmall 1
+    100198: cabinetSmall 1
+    100200: cabinetSmall1 1
+    100202: cabinetSmall2 1
+    100204: cabinetSmall3 1
+    100206: cabinetSmall4 1
+    100208: cabinmetBigBooks 1
+    100210: chair 1
+    100212: chair1 1
+    100214: chair2 1
+    100216: chandelier 1
+    100218: chandelier1 1
+    100220: chandelier3 1
+    100222: chandelier4 1
+    100224: chandelier5 1
+    100226: chandelierSmall 1
+    100228: CHURCH 1
+    100230: CHURCH 1_MeshPart0
+    100232: CHURCH 1_MeshPart1
+    100234: doorLeft 1
+    100236: doorRight 1
+    100238: fence 1
+    100240: furniture01_Layer1 1
+    100242: furniture02_Layer1 1
+    100244: furniture03_Layer1 1
+    100246: Incensary03LOD 1
+    100248: Incensary03LOD1 1
+    100250: KrstL3 1
+    100252: paper 1
+    100254: paper1 1
+    100256: paper2 1
+    100258: piano 1
+    100260: podium 1
+    100262: bench161
+    100264: bench2058
+    100266: bench2157
+    100268: bench2456
+    100270: bench2555
+    100272: bench260
+    100274: bench2654
+    100276: bench2753
+    100278: bench2852
+    100280: bench2951
+    100282: bench3050
+    100284: bench3149
+    100286: bench3248
+    100288: bench3347
+    100290: bench3446
+    100292: bench3545
+    100294: bench359
+    100296: bench3644
+    100298: bench3743
+    100300: bench3842
+    100302: bench3941
+    100304: bench62
+    100306: bookPult12
+    100308: bookPult14
+    100310: books0
+    100312: books13
+    100314: BOOKS29
+    100316: books35
+    100318: books46
+    100320: cabinet139
+    100322: cabinet40
+    100324: cabinetFDoubleSmall38
+    100326: cabinetSmall136
+    100328: cabinetSmall235
+    100330: cabinetSmall334
+    100332: cabinetSmall37
+    100334: cabinetSmall433
+    100336: cabinmetBigBooks32
+    100338: chair130
+    100340: chair229
+    100342: chair31
+    100344: chandelier127
+    100346: chandelier28
+    100348: chandelier326
+    100350: chandelier425
+    100352: chandelier524
+    100354: chandelierSmall23
+    100356: CHURCH13
+    100358: doorLeft10
+    100360: doorRight11
+    100362: fence22
+    100364: furniture01_Layer112
+    100366: furniture02_Layer17
+    100368: furniture03_Layer18
+    100370: Incensary03LOD120
+    100372: Incensary03LOD21
+    100374: KrstL319
+    100376: paper117
+    100378: paper18
+    100380: paper216
+    100382: piano15
+    100384: podium14
+    400000: bench
+    400002: bench1
+    400004: bench2
+    400006: bench20
+    400008: bench21
+    400010: bench24
+    400012: bench25
+    400014: bench26
+    400016: bench27
+    400018: bench28
+    400020: bench29
+    400022: bench3
+    400024: bench30
+    400026: bench31
+    400028: bench32
+    400030: bench33
+    400032: bench34
+    400034: bench35
+    400036: bench36
+    400038: bench37
+    400040: bench38
+    400042: bench39
+    400044: bookPult
+    400046: bookPult1
+    400048: books
+    400050: books1
+    400052: BOOKS2
+    400054: books3
+    400056: books4
+    400058: cabinet
+    400060: cabinet1
+    400062: cabinetFDoubleSmall
+    400064: cabinetSmall
+    400066: cabinetSmall1
+    400068: cabinetSmall2
+    400070: cabinetSmall3
+    400072: cabinetSmall4
+    400074: cabinmetBigBooks
+    400076: Camera_Interest
+    400078: chair
+    400080: chair1
+    400082: chair2
+    400084: chandelier
+    400086: chandelier1
+    400088: chandelier3
+    400090: chandelier4
+    400092: chandelier5
+    400094: chandelierSmall
+    400096: CHURCH
+    400098: CHURCH_MeshPart0
+    400100: CHURCH_MeshPart1
+    400102: //RootNode
+    400104: doorLeft
+    400106: doorRight
+    400108: fence
+    400110: furniture01_Layer1
+    400112: furniture02_Layer1
+    400114: furniture03_Layer1
+    400116: Incensary03LOD
+    400118: Incensary03LOD1
+    400120: KrstL3
+    400122: light
+    400124: paper
+    400126: paper1
+    400128: paper2
+    400130: piano
+    400132: podium
+    400134: bench 1
+    400136: bench1 1
+    400138: bench2 1
+    400140: bench20 1
+    400142: bench21 1
+    400144: bench24 1
+    400146: bench25 1
+    400148: bench26 1
+    400150: bench27 1
+    400152: bench28 1
+    400154: bench29 1
+    400156: bench3 1
+    400158: bench30 1
+    400160: bench31 1
+    400162: bench32 1
+    400164: bench33 1
+    400166: bench34 1
+    400168: bench35 1
+    400170: bench36 1
+    400172: bench37 1
+    400174: bench38 1
+    400176: bench39 1
+    400178: bookPult 1
+    400180: bookPult1 1
+    400182: books 1
+    400184: books1 1
+    400186: BOOKS2 1
+    400188: books3 1
+    400190: books4 1
+    400192: cabinet 1
+    400194: cabinet1 1
+    400196: cabinetFDoubleSmall 1
+    400198: cabinetSmall 1
+    400200: cabinetSmall1 1
+    400202: cabinetSmall2 1
+    400204: cabinetSmall3 1
+    400206: cabinetSmall4 1
+    400208: cabinmetBigBooks 1
+    400210: chair 1
+    400212: chair1 1
+    400214: chair2 1
+    400216: chandelier 1
+    400218: chandelier1 1
+    400220: chandelier3 1
+    400222: chandelier4 1
+    400224: chandelier5 1
+    400226: chandelierSmall 1
+    400228: CHURCH 1
+    400230: CHURCH 1_MeshPart0
+    400232: CHURCH 1_MeshPart1
+    400234: doorLeft 1
+    400236: doorRight 1
+    400238: fence 1
+    400240: furniture01_Layer1 1
+    400242: furniture02_Layer1 1
+    400244: furniture03_Layer1 1
+    400246: Incensary03LOD 1
+    400248: Incensary03LOD1 1
+    400250: KrstL3 1
+    400252: paper 1
+    400254: paper1 1
+    400256: paper2 1
+    400258: piano 1
+    400260: podium 1
+    400262: bench161
+    400264: bench2058
+    400266: bench2157
+    400268: bench2456
+    400270: bench2555
+    400272: bench260
+    400274: bench2654
+    400276: bench2753
+    400278: bench2852
+    400280: bench2951
+    400282: bench3050
+    400284: bench3149
+    400286: bench3248
+    400288: bench3347
+    400290: bench3446
+    400292: bench3545
+    400294: bench359
+    400296: bench3644
+    400298: bench3743
+    400300: bench3842
+    400302: bench3941
+    400304: bench62
+    400306: bookPult12
+    400308: bookPult14
+    400310: books0
+    400312: books13
+    400314: BOOKS29
+    400316: books35
+    400318: books46
+    400320: cabinet139
+    400322: cabinet40
+    400324: cabinetFDoubleSmall38
+    400326: cabinetSmall136
+    400328: cabinetSmall235
+    400330: cabinetSmall334
+    400332: cabinetSmall37
+    400334: cabinetSmall433
+    400336: cabinmetBigBooks32
+    400338: chair130
+    400340: chair229
+    400342: chair31
+    400344: chandelier127
+    400346: chandelier28
+    400348: chandelier326
+    400350: chandelier425
+    400352: chandelier524
+    400354: chandelierSmall23
+    400356: CHURCH13
+    400358: doorLeft10
+    400360: doorRight11
+    400362: fence22
+    400364: furniture01_Layer112
+    400366: furniture02_Layer17
+    400368: furniture03_Layer18
+    400370: Incensary03LOD120
+    400372: Incensary03LOD21
+    400374: KrstL319
+    400376: paper117
+    400378: paper18
+    400380: paper216
+    400382: piano15
+    400384: podium14
+    2300000: bench
+    2300002: bench1
+    2300004: bench2
+    2300006: bench20
+    2300008: bench21
+    2300010: bench24
+    2300012: bench25
+    2300014: bench26
+    2300016: bench27
+    2300018: bench28
+    2300020: bench29
+    2300022: bench3
+    2300024: bench30
+    2300026: bench31
+    2300028: bench32
+    2300030: bench33
+    2300032: bench34
+    2300034: bench35
+    2300036: bench36
+    2300038: bench37
+    2300040: bench38
+    2300042: bench39
+    2300044: bookPult
+    2300046: bookPult1
+    2300048: books
+    2300050: books1
+    2300052: BOOKS2
+    2300054: books3
+    2300056: books4
+    2300058: cabinet
+    2300060: cabinet1
+    2300062: cabinetFDoubleSmall
+    2300064: cabinetSmall
+    2300066: cabinetSmall1
+    2300068: cabinetSmall2
+    2300070: cabinetSmall3
+    2300072: cabinetSmall4
+    2300074: cabinmetBigBooks
+    2300076: chair
+    2300078: chair1
+    2300080: chair2
+    2300082: chandelier
+    2300084: chandelier1
+    2300086: chandelier3
+    2300088: chandelier4
+    2300090: chandelier5
+    2300092: chandelierSmall
+    2300094: CHURCH_MeshPart0
+    2300096: CHURCH_MeshPart1
+    2300098: doorLeft
+    2300100: doorRight
+    2300102: fence
+    2300104: furniture01_Layer1
+    2300106: furniture02_Layer1
+    2300108: furniture03_Layer1
+    2300110: Incensary03LOD
+    2300112: Incensary03LOD1
+    2300114: KrstL3
+    2300116: paper
+    2300118: paper1
+    2300120: paper2
+    2300122: piano
+    2300124: podium
+    3300000: bench
+    3300002: bench1
+    3300004: bench2
+    3300006: bench20
+    3300008: bench21
+    3300010: bench24
+    3300012: bench25
+    3300014: bench26
+    3300016: bench27
+    3300018: bench28
+    3300020: bench29
+    3300022: bench3
+    3300024: bench30
+    3300026: bench31
+    3300028: bench32
+    3300030: bench33
+    3300032: bench34
+    3300034: bench35
+    3300036: bench36
+    3300038: bench37
+    3300040: bench38
+    3300042: bench39
+    3300044: bookPult
+    3300046: bookPult1
+    3300048: books
+    3300050: books1
+    3300052: BOOKS2
+    3300054: books3
+    3300056: books4
+    3300058: cabinet
+    3300060: cabinet1
+    3300062: cabinetFDoubleSmall
+    3300064: cabinetSmall
+    3300066: cabinetSmall1
+    3300068: cabinetSmall2
+    3300070: cabinetSmall3
+    3300072: cabinetSmall4
+    3300074: cabinmetBigBooks
+    3300076: chair
+    3300078: chair1
+    3300080: chair2
+    3300082: chandelier
+    3300084: chandelier1
+    3300086: chandelier3
+    3300088: chandelier4
+    3300090: chandelier5
+    3300092: chandelierSmall
+    3300094: CHURCH_MeshPart0
+    3300096: CHURCH_MeshPart1
+    3300098: doorLeft
+    3300100: doorRight
+    3300102: fence
+    3300104: furniture01_Layer1
+    3300106: furniture02_Layer1
+    3300108: furniture03_Layer1
+    3300110: Incensary03LOD
+    3300112: Incensary03LOD1
+    3300114: KrstL3
+    3300116: paper
+    3300118: paper1
+    3300120: paper2
+    3300122: piano
+    3300124: podium
+    4300000: books
+    4300002: bookPult
+    4300004: books1
+    4300006: bookPult1
+    4300008: books3
+    4300010: books4
+    4300012: furniture02_Layer1
+    4300014: furniture03_Layer1
+    4300016: BOOKS2
+    4300018: doorLeft
+    4300020: doorRight
+    4300022: furniture01_Layer1
+    4300024: CHURCH_MeshPart0
+    4300026: CHURCH_MeshPart1
+    4300028: podium
+    4300030: piano
+    4300032: paper2
+    4300034: paper1
+    4300036: paper
+    4300038: KrstL3
+    4300040: Incensary03LOD1
+    4300042: Incensary03LOD
+    4300044: fence
+    4300046: chandelierSmall
+    4300048: chandelier5
+    4300050: chandelier4
+    4300052: chandelier3
+    4300054: chandelier1
+    4300056: chandelier
+    4300058: chair2
+    4300060: chair1
+    4300062: chair
+    4300064: cabinmetBigBooks
+    4300066: cabinetSmall4
+    4300068: cabinetSmall3
+    4300070: cabinetSmall2
+    4300072: cabinetSmall1
+    4300074: cabinetSmall
+    4300076: cabinetFDoubleSmall
+    4300078: cabinet1
+    4300080: cabinet
+    4300082: bench39
+    4300084: bench38
+    4300086: bench37
+    4300088: bench36
+    4300090: bench35
+    4300092: bench34
+    4300094: bench33
+    4300096: bench32
+    4300098: bench31
+    4300100: bench30
+    4300102: bench29
+    4300104: bench28
+    4300106: bench27
+    4300108: bench26
+    4300110: bench25
+    4300112: bench24
+    4300114: bench21
+    4300116: bench20
+    4300118: bench3
+    4300120: bench2
+    4300122: bench1
+    4300124: bench
+    6400000: bench
+    6400002: bench1
+    6400004: bench2
+    6400006: bench20
+    6400008: bench21
+    6400010: bench24
+    6400012: bench25
+    6400014: bench26
+    6400016: bench27
+    6400018: bench28
+    6400020: bench29
+    6400022: bench3
+    6400024: bench30
+    6400026: bench31
+    6400028: bench32
+    6400030: bench33
+    6400032: bench34
+    6400034: bench35
+    6400036: bench36
+    6400038: bench37
+    6400040: bench38
+    6400042: bench39
+    6400044: bookPult
+    6400046: bookPult1
+    6400048: books
+    6400050: books1
+    6400052: BOOKS2
+    6400054: books3
+    6400056: books4
+    6400058: cabinet
+    6400060: cabinet1
+    6400062: cabinetFDoubleSmall
+    6400064: cabinetSmall
+    6400066: cabinetSmall1
+    6400068: cabinetSmall2
+    6400070: cabinetSmall3
+    6400072: cabinetSmall4
+    6400074: cabinmetBigBooks
+    6400076: chair
+    6400078: chair1
+    6400080: chair2
+    6400082: chandelier
+    6400084: chandelier1
+    6400086: chandelier3
+    6400088: chandelier4
+    6400090: chandelier5
+    6400092: chandelierSmall
+    6400094: CHURCH_MeshPart0
+    6400096: CHURCH_MeshPart1
+    6400098: doorLeft
+    6400100: doorRight
+    6400102: fence
+    6400104: furniture01_Layer1
+    6400106: furniture02_Layer1
+    6400108: furniture03_Layer1
+    6400110: Incensary03LOD
+    6400112: Incensary03LOD1
+    6400114: KrstL3
+    6400116: paper
+    6400118: paper1
+    6400120: paper2
+    6400122: piano
+    6400124: podium
+    9500000: //RootNode
+    13700000: bench 1
+    13700002: bench1 1
+    13700004: bench2
+    13700006: bench20
+    13700008: bench21
+    13700010: bench24 1
+    13700012: bench25 1
+    13700014: bench26 1
+    13700016: bench27 1
+    13700018: bench28 1
+    13700020: bench29 1
+    13700022: bench3 1
+    13700024: bench30
+    13700026: bench31
+    13700028: bench32
+    13700030: bench33 1
+    13700032: bench34
+    13700034: bench35
+    13700036: bench36
+    13700038: bench37
+    13700040: bench38 1
+    13700042: bench39 1
+    13700044: bookPult
+    13700046: bookPult1
+    13700048: books 1
+    13700050: books1 1
+    13700052: BOOKS2 1
+    13700054: books3 1
+    13700056: books4 1
+    13700058: cabinet 1
+    13700060: cabinet1 1
+    13700062: cabinetFDoubleSmall 1
+    13700064: cabinetSmall 1
+    13700066: cabinetSmall1
+    13700068: cabinetSmall2 1
+    13700070: cabinetSmall3 1
+    13700072: cabinetSmall4
+    13700074: cabinmetBigBooks
+    13700076: chair
+    13700078: chair1 1
+    13700080: chair2 1
+    13700082: chandelier 1
+    13700084: chandelier1 1
+    13700086: chandelier3
+    13700088: chandelier4
+    13700090: chandelier5
+    13700092: chandelierSmall
+    13700094: CHURCH 1_MeshPart0
+    13700096: CHURCH 1_MeshPart1
+    13700098: doorLeft
+    13700100: doorRight
+    13700102: fence
+    13700104: furniture01_Layer1
+    13700106: furniture02_Layer1
+    13700108: furniture03_Layer1
+    13700110: Incensary03LOD 1
+    13700112: Incensary03LOD1 1
+    13700114: KrstL3 1
+    13700116: paper
+    13700118: paper1
+    13700120: paper2
+    13700122: piano
+    13700124: podium
+    13700126: bench1
+    13700128: bench2 1
+    13700130: bench24
+    13700132: bench26
+    13700134: bench27
+    13700136: bench28
+    13700138: bench33
+    13700140: bench35 1
+    13700142: bench38
+    13700144: bookPult 1
+    13700146: books1
+    13700148: books3
+    13700150: cabinet
+    13700152: cabinetSmall1 1
+    13700154: cabinmetBigBooks 1
+    13700156: chair 1
+    13700158: chandelier4 1
+    13700160: chandelier5 1
+    13700162: doorLeft 1
+    13700164: doorRight 1
+    13700166: furniture02_Layer1 1
+    13700168: furniture03_Layer1 1
+    13700170: paper2 1
+    13700172: piano 1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet
+    second: {fileID: 2100000, guid: d661ed908a5cd1d47a06c740010bb4e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetGlass
+    second: {fileID: 2100000, guid: c7f6d7e1ffb5abf408f7310487468373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EdgeStone
+    second: {fileID: 2100000, guid: 7b720e834a575fc46ad60c0ccac0ad1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiles
+    second: {fileID: 2100000, guid: 6fbb5f2eca312914aaa23ffa88a29b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TilesPlatform
+    second: {fileID: 2100000, guid: b361c298ccc91264b95d7dd747ac2d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: a46c609a3bff3944ca84ca42ad0b1d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backwall
+    second: {fileID: 2100000, guid: d35049e6873c9f947955064fe4a58c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: balcony
+    second: {fileID: 2100000, guid: e61c223df5723d64e83f1ddb459c8175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: base
+    second: {fileID: 2100000, guid: e70098b0119ff804f94a9652a72a477a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bench1
+    second: {fileID: 2100000, guid: 2507457557bf28943ab7a191f340d277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bench2
+    second: {fileID: 2100000, guid: b2554a09f72cc2444b600339f33653f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bench3
+    second: {fileID: 2100000, guid: 7414aebaeec470c45bf7e9519192a571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bench4
+    second: {fileID: 2100000, guid: 4aad52089f4670c4fb0f9ae44a4b4e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: books1
+    second: {fileID: 2100000, guid: 9b4acf994c1722f439831f1d64c40bcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpet
+    second: {fileID: 2100000, guid: 98f6f8d98fc89e04886032e8a8a83ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling
+    second: {fileID: 2100000, guid: e039990dc1ec33f4d940a43481ae4485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chandeliernvases
+    second: {fileID: 2100000, guid: 676fef290ba65ef41bc2467f82586c31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: columns
+    second: {fileID: 2100000, guid: c7653bb7c4794314f8d56fdae147f4e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door
+    second: {fileID: 2100000, guid: 6145a13079d3bbd459cbc053785fe34b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fence
+    second: {fileID: 2100000, guid: cd76522794ae5534fa3fbc92a5e0cbab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flag
+    second: {fileID: 2100000, guid: f079308e8cab62249a02c3adabaf04e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frontwall
+    second: {fileID: 2100000, guid: 193abe9355bc31f44913d9ed66b7c9de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furniture
+    second: {fileID: 2100000, guid: 63526479b3c8fa6449850ea380df45a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furniture5
+    second: {fileID: 2100000, guid: 78fa774092bca33409349b4a59ffbf89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furniture6
+    second: {fileID: 2100000, guid: 404bd2f74767c67448fb0d9ef4271d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furniture7
+    second: {fileID: 2100000, guid: 63526479b3c8fa6449850ea380df45a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: f898fc536574ba249aef74dad1eede40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: incenholder
+    second: {fileID: 2100000, guid: 6459b1505a4e97a45b23ee52f670e780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: incensary_n_torch
+    second: {fileID: 2100000, guid: c87beaa0459982446bb9ac8d8ed5a6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalbars
+    second: {fileID: 2100000, guid: 63b5ac0557cad5046bf9ac9d1a7be3fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalchains
+    second: {fileID: 2100000, guid: 4c41e726d604d004b8bbff44cac692ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metalvaried
+    second: {fileID: 2100000, guid: 0281457e626ba9046bc68898d236b2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paper_045medieval
+    second: {fileID: 2100000, guid: 19d45f774d9ebca43b2d31ff7ba7ea2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano
+    second: {fileID: 2100000, guid: 7c32a18457547164b9f513917c8ee953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes
+    second: {fileID: 2100000, guid: b943fbdf25aeb414dbc4e7473d068571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podium
+    second: {fileID: 2100000, guid: b77a94e4362edf44ca5fddf855e9efde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof2
+    second: {fileID: 2100000, guid: 2a19ef2188b130f47bc8ed4919c2a6ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roofBeam
+    second: {fileID: 2100000, guid: 0dffd2bc21324174c92b8a6d6a0b5fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rud
+    second: {fileID: 2100000, guid: 2f127ab07791def44b337082c28f6dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rud2
+    second: {fileID: 2100000, guid: 9d2cf88fce1610a4f9729160845b0276, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stubovi
+    second: {fileID: 2100000, guid: fe694fb57f28eea4797fbe0610456b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallleft
+    second: {fileID: 2100000, guid: 230675ec0a99b654aa1f10ad3f361209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows2
+    second: {fileID: 2100000, guid: e0ea03efbc1982347ac262ce2fd611c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: 69dcbbdd6a8c9324c8046b171908c887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood1
+    second: {fileID: 2100000, guid: 784612c1938fcf0488ccb0b984f600f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wrinkles
+    second: {fileID: 2100000, guid: dc326c14890911c4faa26fa91650d79b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 41
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
